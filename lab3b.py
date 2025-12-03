@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 3
+# lab3b.py
+# Author: Avraham Abel
 
 def sum_numbers(number1, number2):
 	# Make this function add number1 and number2 and return the value
