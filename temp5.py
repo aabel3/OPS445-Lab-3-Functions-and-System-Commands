@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 3
+# temp5.py
+# Author: Avraham Abel
 
 def describe_temperature(temp):
 	if temp > 30:
