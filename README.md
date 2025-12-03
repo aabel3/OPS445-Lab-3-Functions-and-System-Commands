@@ -24,7 +24,6 @@ lab3d.py – Functions with arguments
 lab3e.py – Functions returning values
 lab3f.py – Smarter functions combining logic
 lab3g.py – Running system commands from Python
-laboutput.txt – Output log from the checking script
 
 🧩 Tips & Tricks:
 Always start function definitions with the def keyword and indent the code properly.
